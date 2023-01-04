@@ -105,6 +105,11 @@ def finish_step():
             title="Tag is not selected",
             description="Please, select existing tag or create a new one before start labeling",
         )
+    if tag_name == g.technical_tag_name:
+        raise DialogWindowError(
+            title="Default technical tag is selected",
+            description="Please, select another tag or create a new tag before start labeling",
+        )
     select_tag.disable()
     create_tag_btn.disable()
     finish_step_btn.hide()
