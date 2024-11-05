@@ -11,11 +11,11 @@
   <a href="#Demo">Screenshot</a>
 </p>
 
-[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/mark-segments-on-synced-videos)
-[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
+[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervisely.com/apps/supervisely-ecosystem/mark-segments-on-synced-videos)
+[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/mark-segments-on-synced-videos)
-[![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/mark-segments-on-synced-videos)](https://supervise.ly)
-[![runs](https://app.supervise.ly/img/badges/runs/supervisely-ecosystem/mark-segments-on-synced-videos.png)](https://supervise.ly)
+[![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/mark-segments-on-synced-videos)](https://supervisely.com)
+[![runs](https://app.supervisely.com/img/badges/runs/supervisely-ecosystem/mark-segments-on-synced-videos.png)](https://supervisely.com)
 
 </div>
 
@@ -44,7 +44,7 @@ Segment defines by two tags: app assigns tag with string value `begin-<segment-i
 
 # Demo data
 
-- [Demo video pairs](https://ecosystem.supervise.ly/projects/demo-video-pairs)
+- [Demo video pairs](https://ecosystem.supervisely.com/projects/demo-video-pairs)
 
   Use this demo data to test this labeling app.
 
